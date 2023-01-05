@@ -14,16 +14,12 @@ Me encanta aprender nuevas tecnologías y explorar todas las posibilidades con l
 </br>
 - 💬 Si tienes alguna duda no dudes en mandarme un mensaje!
 
-## 🔭 Actualmente estoy trabajando en
-
-- Mis antiguos proyectos
-- Una app personal enfocada en un cuaderno de entrenamientos
+## 🔭 Actualmente estoy trabajando en Hiberus
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- 📱 React
-- C#
-- Plataformas low-code como Appian
+- 📱 Angular
+- Java + SpringBoot
 
 ## 💼 Habilidades técnicas
 
