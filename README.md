@@ -3,7 +3,7 @@ Hola, Soy <a href="https://linkedin.com/in/javier-vnieto" target="_blank" rel="n
 </h3>
 
 <h2 align="center">
-Soy un Desarrollador Web Junior 💻 !
+Soy Desarrollador Back-end 💻 !
 </h2> 
 
 Me encanta aprender nuevas tecnologías y explorar todas las posibilidades con las que se puede desarrollar una aplicacion web.
@@ -14,7 +14,7 @@ Me encanta aprender nuevas tecnologías y explorar todas las posibilidades con l
 </br>
 - 💬 Si tienes alguna duda no dudes en mandarme un mensaje!
 
-## 🔭 Actualmente estoy trabajando en Hiberus
+## 🔭 Actualmente estoy trabajando en EYSA
 
 ## 🌱 Actualmente estoy aprendiendo
 
